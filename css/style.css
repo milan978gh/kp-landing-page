@@ -5,4 +5,28 @@
   list-style: none;
   box-sizing: border-box;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  width: 85%;
+  max-width: 65em;
+  margin: 0 auto;
+}
+
+.btn {
+  display: inline-block;
+  font-size: 1.125em;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: .5em 1.25em;
+}
 /*# sourceMappingURL=style.css.map */
